@@ -1,0 +1,36 @@
+﻿
+.container {
+  max-width: 400px;
+  
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+h2 {
+  text-align: center;
+}
+.a{
+font-family:Arial;
+}
+.form-group {
+  
+  
+
+}
+
+
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="date"] {
+  width: 70%;
+  height:25%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+
+
